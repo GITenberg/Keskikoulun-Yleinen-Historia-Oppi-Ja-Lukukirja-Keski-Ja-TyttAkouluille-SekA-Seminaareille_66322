@@ -1,5 +1,8 @@
 _repo: Keskikoulun-Yleinen-Historia-Oppi-Ja-Lukukirja-Keski-Ja-TyttAkouluille-SekA-Seminaareille_66322
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66322-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Sarva, Gunnar
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '53750'
     url: http://www.gutenberg.org/2009/agents/53750
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66322#Keskikoulun-Yleinen-Historia-Oppi-Ja-Lukukirja-Keski-Ja-TyttAkouluille-SekA-Seminaareille
 gutenberg_issued: '2021-09-17'
 identifiers:
   gutenberg: '66322'
